@@ -775,7 +775,7 @@ const Footer = () => {
           <i className="fab fa-twitter"></i>
         </a>
         <a
-          href="https://discord.gg/UGKBgREr"
+          href="https://discord.gg/m3gYmmcZYf"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:opacity-80 transition-opacity flex items-center justify-center"
