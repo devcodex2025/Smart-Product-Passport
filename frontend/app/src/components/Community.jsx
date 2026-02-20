@@ -70,7 +70,7 @@ export default function Community() {
               className="text-base font-semibold transition-all duration-300 hover:scale-105"
             >
               <a
-                href="https://discord.gg/UGKBgREr"
+                href="https://discord.gg/m3gYmmcZYf"
                 target="_blank"
                 className="flex items-center space-x-2"
                 rel="noreferrer"
